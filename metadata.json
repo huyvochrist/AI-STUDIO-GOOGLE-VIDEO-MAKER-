@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Video Generator",
+  "description": "Generate breathtaking cinematic videos from an image, an audio file, and a custom text prompt using Google's Veo 3.1 model.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
